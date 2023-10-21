@@ -1,5 +1,8 @@
 # QR Code Generator App
 
+![QR Code Generator App](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
 This QR Code Generator App build Using Vite + ReactJs + Chakra UI. Feel free to contribute to this project.
 
 ## Getting Started
